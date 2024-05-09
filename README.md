@@ -1,4 +1,4 @@
-#Inżynieria oprogramowania
+# Inżynieria oprogramowania
 
 **Asocjacja** (ang. association) jest silniejszym rodzajem relacji niż zależność. Asocjacja oznacza, że jedna klasa wykorzystuje drugą, jednak siła relacji jest niedookreślona.
 
